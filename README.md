@@ -15,8 +15,8 @@ but still a good reference to learn.
 
 ## Recommended Sources
 
-https://www.coursera.org/learn/cryptocurrency
-https://www.youtube.com/channel/UCbXiy1W_1HSMawmBDfo_TOA
-https://en.bitcoin.it/wiki/
-https://csrc.nist.gov/csrc/media/publications/fips/180/2/archive/2002-08-01/documents/fips180-2.pdf
-https://www.youtube.com/watch?v=y3dqhixzGVo
+- https://www.coursera.org/learn/cryptocurrency
+- https://www.youtube.com/channel/UCbXiy1W_1HSMawmBDfo_TOA
+- https://en.bitcoin.it/wiki/
+- https://csrc.nist.gov/csrc/media/publications/fips/180/2/archive/2002-08-01/documents/fips180-2.pdf
+- https://www.youtube.com/watch?v=y3dqhixzGVo
